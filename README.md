@@ -1,14 +1,14 @@
 # game-search-engine
 
 ## Issues
-Had to swap interpreter to get dotenv to work correctly 
-need to include ?q= after path for params (Kept trying to use ?Q=)
+1. Had to swap interpreter to get dotenv to work correctly 
+2. need to include ?q= after path for params (Kept trying to use ?Q=)
 
 ## To-Do
-Add GUI via web app
-finish recommendation engine 
-clean up files
-add css to web app
+1. Add GUI via web app
+2. finish recommendation engine 
+3. clean up files
+4. add css to web app
 
 ## Setup
 ()
